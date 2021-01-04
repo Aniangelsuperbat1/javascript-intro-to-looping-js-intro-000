@@ -12,5 +12,6 @@ function whileLoop(num){
   let i = num
   while num > 0 {
     console.log(num[i])
+    num -= 1
   } return "done"
 }
