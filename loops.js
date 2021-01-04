@@ -1,4 +1,4 @@
-let forLoop = (array) =>{
+function forLoop = (array) {
   outcome = [];
   for(let i = 0; i < array.length; i++){
     if (array[i] === 1){
