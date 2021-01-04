@@ -6,5 +6,5 @@ let forLoop = (array) =>{
     } else{
       outcome.push(`I am ${array[i]} strange loops`);
     }
-  } return outcome 
+  } return outcome
 }
