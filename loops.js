@@ -4,7 +4,7 @@ let forLoop = (array) =>{
     if (array[i] === 1){
       outcome.push("I am 1 strange loop");
     } else{
-      outcome.push(`I am ${array[i]} strange loops`);
+      outcome.push(`I am ${array[i]} strange loops.`);
     }
   } return outcome
 }
